@@ -7,7 +7,7 @@ const  Search=document.getElementById("searchbtn");
 const  newsquery=document.getElementById("newsQuery");
 const  newsType=document.getElementById("newsType");
 const  newsdetails=document.getElementById("newsdetails");
-const api_key="b7c4f75b5fe648d6b93d5d41fec58d44";
+const api_key="";
 const headliness_news="https://newsapi.org/v2/top-headlines?country=in&apiKey="
 const business_news="https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=";
 const sports_news="https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=";
